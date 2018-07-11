@@ -9,6 +9,10 @@ lazypic 디자인에 사용되는 에셋을 저장하는 리포지터리입니�
 $ qlmanage -t -s 1000 -o . logo.svg
 ```
 
+#### 콘텐츠 부합성 체크
+- Adult, Spoof, Medical, Violence, Racy 항목을 체크할 수 있다.
+- https://cloud.google.com/vision/
+
 #### Font
 lazypic에서 자주 사용되는 글꼴은 "고도마음체" 입니다.
 
