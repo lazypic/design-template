@@ -3,6 +3,8 @@ lazypic 디자인에 사용되는 에셋을 저장하는 리포지터리입니�
 영상로고, CI, BI, 디자인 가이드를 다룹니다.
 
 #### Bitmap to Vector
+bitmap이미지를 Vector로 바꾸기 쉬운 방법은 potrace 명령어를 사용하는 것 입니다.
+
 - Potrace : http://potrace.sourceforge.net
 
 #### SVG to PNG
@@ -12,11 +14,8 @@ lazypic 디자인에 사용되는 에셋을 저장하는 리포지터리입니�
 $ qlmanage -t -s 1000 -o . logo.svg
 ```
 
-#### Bitmap to Vector
-- https://vectormagic.com
-
 #### 콘텐츠 부합성 체크
-- Adult, Spoof, Medical, Violence, Racy 항목을 체크할 수 있다.
+- google Vision 서비스를 이용하면 Adult, Spoof, Medical, Violence, Racy 항목에 대한 콘텐츠 부합성 체크를 할 수 있습니다.
 - https://cloud.google.com/vision/
 
 #### Font
