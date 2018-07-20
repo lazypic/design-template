@@ -14,6 +14,9 @@ bitmap이미지를 Vector로 바꾸기 쉬운 방법은 potrace 명령어를 사
 $ qlmanage -t -s 1000 -o . logo.svg
 ```
 
+#### 컨버팅 서비스
+- ZAMZAR : https://www.zamzar.com
+
 #### 콘텐츠 부합성 체크
 - google Vision 서비스를 이용하면 Adult, Spoof, Medical, Violence, Racy 항목에 대한 콘텐츠 부합성 체크를 할 수 있습니다.
 - https://cloud.google.com/vision/
