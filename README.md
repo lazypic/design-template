@@ -34,9 +34,9 @@ lazypic에서 자주 사용되는 글꼴은 "고도마음체" 입니다.
 - 고도마음체 : https://design.godo.co.kr/custom/free-font.php
 
 #### 명함
+- 명함의 종이는 스텐다드, 둥근모서리
 - https://www.ohprint.me/store/business-card/intro/basic
-- 명함의 종이는 스텐다드, 둥근모서리. 명함 케이스는 애쉬그레이로 한다.
 
 #### 스티커
-- 50mm x 50mm
+- 원형 : 50mm x 50mm
 - https://www.ohprint.me/store/sticker/intro/circle
