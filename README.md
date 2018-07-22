@@ -14,6 +14,13 @@ bitmap이미지를 Vector로 바꾸기 쉬운 방법은 potrace 명령어를 사
 $ qlmanage -t -s 1000 -o . logo.svg
 ```
 
+#### SVG to PDF
+- 간혹 인쇄업체에서 pdf를 요구하는 경우가 있다.
+
+```
+/Applications/Inkscape.app/Contents/Resources/bin/Inkscape --without-gui -A /filepaht/filename.pdf /filepath/filename.svg
+```
+
 #### 컨버팅 서비스
 - ZAMZAR : https://www.zamzar.com
 
