@@ -35,8 +35,10 @@ lazypic에서 자주 사용되는 글꼴은 "고도마음체" 입니다.
 
 #### 명함
 - 명함의 종이는 스텐다드, 둥근모서리
+- 꼭 SVG를 PDF로 변환해서 보낼 것
 - https://www.ohprint.me/store/business-card/intro/basic
 
 #### 스티커
 - 원형 : 50mm x 50mm
+- 꼭 SVG를 PDF로 변환해서 보낼 것
 - https://www.ohprint.me/store/sticker/intro/circle
