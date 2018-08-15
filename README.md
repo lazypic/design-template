@@ -8,10 +8,10 @@ bitmap이미지를 Vector로 바꾸기 쉬운 방법은 potrace 명령어를 사
 - Potrace : http://potrace.sourceforge.net
 
 #### SVG to PNG
-- macOS 에서는 qlmanage 명령어를 이용해서 svg파일을 png로 바꿀 수 있습니다.
+- macOS 에서는 Inkscape를 이용해서 svg파일을 png로 바꿀 수 있습니다.
 
-```
-$ qlmanage -t -s 1000 -o . logo.svg
+```bash
+$ /Applications/Inkscape.app/Contents/Resources/bin/inkscape -z /Users/woong/design-template/logo_1080p.svg -e /Users/woong/design-template/logo_1080p.png
 ```
 
 #### SVG to PDF
