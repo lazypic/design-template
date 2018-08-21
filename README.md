@@ -42,3 +42,7 @@ lazypic에서 자주 사용되는 글꼴은 "고도마음체" 입니다.
 - 원형 : 50mm x 50mm
 - 꼭 SVG를 PDF로 변환해서 보낼 것
 - https://www.ohprint.me/store/sticker/intro/circle
+
+#### 인형
+- 최소 개당 30만원
+- http://www.junbokorea.com/kor/intro/about.php
