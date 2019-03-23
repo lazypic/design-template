@@ -14,13 +14,6 @@ bitmap이미지를 Vector로 바꾸기 쉬운 방법은 potrace 명령어를 사
 $ /Applications/Inkscape.app/Contents/Resources/bin/inkscape -z /Users/woong/design-template/logo_1080p.svg -e /Users/woong/design-template/logo_1080p.png
 ```
 
-#### SVG to PDF
-- 간혹 인쇄업체에서 pdf를 요구하는 경우가 있다.
-
-```
-/Applications/Inkscape.app/Contents/Resources/bin/Inkscape --without-gui -A /filepaht/filename.pdf /filepath/filename.svg
-```
-
 #### 컨버팅 서비스
 - ZAMZAR : https://www.zamzar.com
 
@@ -34,9 +27,11 @@ lazypic에서 자주 사용되는 글꼴은 "고도마음체" 입니다.
 - 고도마음체 : https://design.godo.co.kr/custom/free-font.php
 
 #### 명함
-- 명함의 종이는 스텐다드, 둥근모서리
+- 명함의 종이는 럭스
 - 꼭 SVG를 PDF로 변환해서 보낼 것
 - https://www.ohprint.me/store/business-card/intro/basic
+- dpi,pixel 계산기 : https://www.pixelcalculator.com
+- Inkscape에서 직접 작업하는 것이 편리하다. 94.1 x 53.1
 
 #### 스티커
 - 원형 : 50mm x 50mm
