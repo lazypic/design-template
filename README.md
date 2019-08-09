@@ -28,14 +28,17 @@ lazypic에서 자주 사용되는 글꼴은 "고도마음체" 입니다.
 
 #### 명함
 - 명함의 종이는 럭스
-- 꼭 SVG를 PDF로 변환해서 보낼 것
+- 꼭 SVG를 PDF로 변환해서 Ohprint로 올릴것
 - https://www.ohprint.me/store/business-card/intro/basic
 - dpi,pixel 계산기 : https://www.pixelcalculator.com
-- Inkscape에서 직접 작업하는 것이 편리하다. 94.1 x 53.1
+- Inkscape, File > Document Properties.
+    - Units: mm
+    - Width: 94.1
+    - Height: 53.1
 
 #### 스티커
 - 원형 : 50mm x 50mm
-- 꼭 SVG를 PDF로 변환해서 보낼 것
+- 꼭 SVG를 PDF로 변환해서 Ohprint로 올릴것
 - https://www.ohprint.me/store/sticker/intro/circle
 
 #### 인형
