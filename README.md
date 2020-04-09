@@ -26,6 +26,7 @@ lazypic에서 자주 사용되는 글꼴은 "고도마음체" 입니다.
 
 - 고도마음체 : https://design.godo.co.kr/custom/free-font.php
 - G마켓폰트: http://company.gmarket.co.kr/company/about/company/company--font.asp
+- 조선100년체: https://event.chosun.com/100/100font.html
 
 #### 명함
 - 명함의 종이는 럭스
