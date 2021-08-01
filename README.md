@@ -1,11 +1,6 @@
 # Design Template
-lazypic 디자인에 사용되는 에셋을 저장하는 리포지터리입니다.
+Lazypic,LLC. 디자인 에셋을 보관하는 리포지터리입니다.
 영상로고, 명함, CI, BI, 디자인 가이드를 다룹니다.
-
-#### Bitmap to Vector
-bitmap이미지를 Vector로 바꾸기 쉬운 방법은 potrace 명령어를 사용하는 것 입니다.
-
-- Potrace : http://potrace.sourceforge.net
 
 #### SVG to PNG
 - macOS 에서는 Inkscape를 이용해서 svg파일을 png로 바꿀 수 있습니다.
