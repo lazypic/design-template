@@ -18,7 +18,7 @@ $ /Applications/Inkscape.app/Contents/Resources/bin/inkscape -z /Users/woong/des
 
 #### Font
 lazypic에서 자주 사용되는 글꼴은 "고도마음체" 입니다.
-
+- 타이틀로 사용하기 좋은 글꼴 Bellefair: https://www.dafontfree.io/bellefair-font/#google_vignette
 - 고도마음체 : https://design.godo.co.kr/custom/free-font.php
 - G마켓폰트: http://company.gmarket.co.kr/company/about/company/company--font.asp
 - 조선100년체: https://event.chosun.com/100/100font.html
